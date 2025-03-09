@@ -9,28 +9,21 @@ In today's digital landscape, social media platforms generate vast amounts of da
 ## Featured Projects
 
 ### 1. Sentiment Analysis Tool
-- **Repository**: [sentiment-analysis-tool]
+- **Repository**: [sentiment-analysis-tool](https://github.com/aws-samples/serverless-sentiment-analysis)
 - **Description**: A Python-based application that uses natural language processing (NLP) to analyze social media posts and determine user sentiment towards brands and products.
 
 ### 2. Social Media Trend Tracker
-- **Repository**: [social-media-trend-tracker]
+- **Repository**: [social-media-trend-tracker](https://github.com/aws-samples/real-time-social-media-analytics-with-generative-ai)
 - **Description**: An interactive dashboard that visualizes trending topics across various social media platforms, utilizing machine learning to predict future trends based on historical data.
 
 ### 3. Engagement Metrics Analyzer
-- **Repository**: [engagement-metrics-analyzer]
+- **Repository**: [engagement-metrics-analyzer](https://github.com/aws-samples/Engagement-Database-And-Analytics-Sample-For-End-User-Messaging-And-SES)
 - **Description**: A tool that collects and analyzes engagement metrics (likes, shares, comments) from multiple social media platforms, providing insights into content performance.
 
-### 4. Hashtag Performance Optimizer
-- **Repository**: [hashtag-performance-optimizer]
-- **Description**: A machine learning model that analyzes the performance of hashtags on social media posts, recommending optimal hashtags for increased visibility and engagement.
-
-### 5. Social Media Content Generator
-- **Repository**: [social-media-content-generator]
+### 4. Social Media Content Generator
+- **Repository**: [social-media-content-generator](https://github.com/aws-samples/Build-a-multimodal-social-media-content-generator-using-Amazon-Bedrock)
 - **Description**: A generative AI application that creates engaging social media content based on user-defined topics and styles, helping brands maintain a consistent online presence.
 
-### 6. Influencer Impact Assessment
-- **Repository**: [influencer-impact-assessment]
-- **Description**: Analyzes the effectiveness of influencer marketing campaigns by measuring engagement rates and audience sentiment, providing actionable insights for future collaborations.
 
 ## Contributing
 
